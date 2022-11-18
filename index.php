@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello Azure 7!";
+echo "Hello Azure 8!";
 
