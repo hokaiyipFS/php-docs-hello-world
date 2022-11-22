@@ -8,7 +8,7 @@ description: "This sample demonstrates a tiny Hello World PHP app for App Servic
 urlFragment: php-docs-hello-world
 ---
 
-8
+9
 
 # PHP Hello World
 
