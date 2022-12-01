@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'fsdevops-webapp-02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_66F4AD3F24584A2981280681D5B166BC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5861FE720E134904906588C096E2EF0D }}
           package: .
